@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teine.md",
+                "file": "some notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "teine.md",
+            "file": "some notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "teine.md",
+            "file": "some notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "teine.md"
+            "file": "some notes.md"
           }
         }
       }
@@ -146,7 +146,7 @@
   },
   "active": "b243113363f06345",
   "lastOpenFiles": [
-    "some notes.md",
-    "teine.md"
+    "teine.md",
+    "some notes.md"
   ]
 }
