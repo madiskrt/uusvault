@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8360e77b47c6e19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "poelist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "teine.md",
+            "file": "poelist.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "teine.md",
+            "file": "poelist.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "teine.md"
+            "file": "poelist.md"
           }
         }
       }
@@ -144,9 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b243113363f06345",
+  "active": "a8360e77b47c6e19",
   "lastOpenFiles": [
-    "some notes.md",
-    "teine.md"
+    "teine.md",
+    "poelist.md",
+    "some notes.md"
   ]
 }
